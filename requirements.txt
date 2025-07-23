@@ -1,0 +1,4 @@
+numpy==1.26.4
+openvino==2024.1.0
+openvino-telemetry==2025.2.0
+packaging==25.0
